@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>CM-5803-BLK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5803, Black Edition Chestpiece, Black</PRODUCTNAME>
+    <DESCRIPTION>TubeColor : Black | Chestpiece Color : Black | Overall Length : 69 cm | Model : 5803 | Tube finish : Standard | Chestpiece Finish : Matte</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/cardiology-acoustic-scope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_130ea4b1fff3454aa9a0e35cc9d9e7f3~mv2.webp</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Black</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5803</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5633-PPK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5633, Standard-Finish Chestpiece, Pearl Pink</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Pearl pink | Chestpiece Color : Silver | Overall Length : 69 cm | Net Weight : 150 g | Model : 5633 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/advanced-heart-stethoscope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_d8b92b9044934e6ba7b383a6ee69bd0b~mv2.webp</IMGURL>
+    <PRICE_VAT>75</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Pearl Pink</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5633</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5627-BUR</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5627, Standard-Finish Chestpiece, Burgundy</PRODUCTNAME>
+    <DESCRIPTION>ChestpieceColor : Silver | Tube Color : Burgundy | Overall Length : 69 cm | Model : 5627 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/precision-cardiology-stethoscope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_1e08b6f7b3484b6ca310610ba0766420~mv2.webp</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Burgundy</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5627</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5622-NVY</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5622, Navy Blue</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Navy Blue | Chestpiece Color : Silver | Overall Length : 69 cm | Model : 5622 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/multi-diagnostic-stethoscope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_9a2e773430cb44cd9756a35a661d11d3~mv2.webp</IMGURL>
+    <PRICE_VAT>75</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Navy Blue</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5622</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5620-BLK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5620, Standard-Finish Chestpiece, Black</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Black | Chestpiece Color : Silver | Overall Length : 69 cm | Model : 5620 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/precision-diagnostic-scope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_03a41872fc9c444588aa061d03b2c145~mv2.webp</IMGURL>
+    <PRICE_VAT>75</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Black</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5620</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5621-GRY</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5621, Standard-Finish Chestpiece, Gray</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Gray | Chestpiece Color : Silver | Overall Length : 69 cm | Net Weight : 150 g | Model : 5621 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/medical-diagnostic-stethoscope</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_4dd77751290f4a19a72072652969e21e~mv2.webp</IMGURL>
+    <PRICE_VAT>70</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Gray</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5621</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5806-RSP</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5806, Rainbow-Finish, Raspberry</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Raspberry | ChestpieceFinish : Stainless Steel | Chestpiece Color : Rainbow | OverallLengthMetric : 69 cm | Net Weight : 150 g | Model : 5806 | Tube finish : Standard</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5806-rainbow-finish-raspberry</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_9b3a8a60fdd64288b9e9ae1b0c42ea61~mv2.webp</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Raspberry</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5806</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5809-CHO</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5809, Copper-Finish Chestpiece, Chocolate</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Chocolate | Chestpiece Color : Copper | Overall Length : 27.17 in | Overall Length : 69 cm | Model : 5809 | Tube finish : Standard</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5809-copper-finish-chestpiece-chocolate</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_0e33cb6fcdd94d73915d97a40095efcd~mv2.png</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Chocolate</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5809</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5831-PLM</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5831, Standard-Finish Chestpiece, Plum</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Plum | Chestpiece Color : Silver | Overall Length : 27.17 in | Overall Length : 69 cm | Net Weight : 150 g | Model : 5831 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5831-standard-finish-chestpiece-plum</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_f94d30ab8de14ede972a63965b3b454d~mv2.png</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Plum</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5831</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5861-BLK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5861, Champagne-Finish Chestpiece, Black</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Black | Chestpiece Color : Champagne | Overall Length : 27.17 in | Overall Length : 69 cm | Model : 5861 | Tube finish : Standard | Chestpiece Finish : High Polish</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5861-champagne-finish-chestpiece-black</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_0e322826deba4488b466820a339fcaf7~mv2.webp</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Black</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5861</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5863-NVY</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5863, Mirror - Finish Chestpiece, Navy Blue</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Navy Blue | Chestpiece Color : Mirror | Overall Length : 27.17 in | Overall Length : 69 cm | Model : 5863 | Tube finish : Standard | Chestpiece Finish : High Polish</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5863-mirror-finish-chestpiece-navy-blue</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_2871ac5de737495a9e5e11ea7c3bf65e~mv2.png</IMGURL>
+    <PRICE_VAT>75</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Navy Blue</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5863</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5864-BUR</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5864, Champagne-Finish Chestpiece, Burgundy</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Burgundy | Chestpiece Color : Champagne | Overall Length : 69 cm | Model : 5864 | Tube finish : Standard | Chestpiece Finish : High Polish</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5864-champagne-finish-chestpiece-burgundy</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_dfa5b11377ef4856b9a78442530bae77~mv2.webp</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Burgundy</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5864</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5868-BUR</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5868, Black-Finish Chestpiece, Burgundy</PRODUCTNAME>
+    <DESCRIPTION>Chestpiece Color : Black | Tube Color : Burgundy | Tube Finish : Standard | Overall Length : 69 cm | Model : 5868 | Chestpiece Finish : Matte</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5868-black-finish-chestpiece-burgundy</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_d7cc6da38a4540c89a50f38989e6785b~mv2.jpg</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Burgundy</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5868</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5870-BLK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5870, Rainbow-Finish Chestpiece, Black</PRODUCTNAME>
+    <DESCRIPTION>Chestpiece Color : Rainbow | Tube Color : Black | Overall Length : 69 cm | Model : 5870 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5870-rainbow-finish-chestpiece-black</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_2e83988f9d174ede8fe9d8fadac579a9~mv2.png</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Black</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5870</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5962-PPK</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5962, Mirror Finish Chestpiece, Pearl Pink</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Pearl pink | Overall Diameter Metric : 4.3 cm | Net Weight : 150 g | Model : 5962 | Chestpiece Finish : High Polish | Chestpiece Color : Mirror | Overall Length Metric : 69 cm | Overall Length : 27.17 in | Overall Diameter : 1.69 in | Tube finish : Standard</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-mirror-finish-chestpiece-pearl-pink</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_845c7b748e8b4cd8afcde1b280a5c6d3~mv2.webp</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Pearl Pink</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5962</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5872-TRQ</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5872, Smoke Chestpiece, Turquoise</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Turquoise | Model : 5872 | Chestpiece Finish : Stainless Steel | Chestpiece Color : Smoke | Overall Diameter : 1.69 in | Overall Length : 69 cm | Overall Diameter : 4.3 cm | Tube finish : Standard</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5872-smoke-chestpiece-turquoise</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_86d2d5f159794c9e9f1525d2237be438~mv2.jpg</IMGURL>
+    <PRICE_VAT>85</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Turquoise</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5872</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5839-LLM</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5839, Standard-Finish Chestpiece, Lemon-Lime</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Lemon-Lime | Chestpiece Color : Silver | Overall Length : 69 cm | Model : 5839 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5839-standard-finish-chestpiece-lemon-lime</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_a8c8e580c83c4957845e4388d995e148~mv2.png</IMGURL>
+    <PRICE_VAT>89</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Lemon-Lime</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5839</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5807-CAR</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5807, Rainbow-Finish, Caribbean Blue</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Caribbean Blue | Chestpiece Color : Rainbow | Overall Length : 69 cm | Net Weight : 150 g | Catalog number : 5807 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5807-rainbow-finish-caribbean-blue</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_12b94eedc694462a8300faf8aadb392e~mv2.webp</IMGURL>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Caribbean Blue</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5807</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5873-GRY</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5873, Smoke Chestpiece, Gray</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Gray | Mode : 5873 | Chestpiece Finish : Stainless Steel | Chestpiece Color : Smoke | Overall Diameter : 1.69 in | Overall Length : 69 cm | Overall Diameter : 4.3 cm | Tube finish : Standard</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5873-smoke-chestpiece-gray</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_d26dcdd02be247e4a4d06bc74c5d7046~mv2.jpeg</IMGURL>
+    <PRICE_VAT>75</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Gray</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5873</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CM-5832-LAV</ITEM_ID>
+    <PRODUCTNAME>Littmann Classic III Stethoscope, 5832, Standard-Finish Chestpiece, Lavender</PRODUCTNAME>
+    <DESCRIPTION>Tube Color : Lavender | Chestpiece Color : Silver | Overall Length : 27.17 in | Overall Length : 69 cm | Model : 5832 | Tube finish : Standard | Chestpiece Finish : Stainless Steel</DESCRIPTION>
+    <URL>https://caresuppliesonline.wixsite.com/stethoscope/product-page/littmann-classic-iii-stethoscope-5832-standard-finish-chestpiece-lavender</URL>
+    <IMGURL>https://static.wixstatic.com/media/25c60e_42d0c5de794047f99eff9a99e6d88e16~mv2.webp</IMGURL>
+    <PRICE_VAT>89</PRICE_VAT>
+    <CATEGORYTEXT>Zdravie | Diagnostické pomôcky | Fonendoskopy</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Farba</PARAM_NAME>
+      <VAL>Lavender</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Model</PARAM_NAME>
+      <VAL>5832</VAL>
+    </PARAM>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>PPL</DELIVERY_ID>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
+    </DELIVERY>
+    <ITEMGROUP_ID>CM-CLASSIC3-GROUP</ITEMGROUP_ID>
+  </SHOPITEM>
+</SHOP>
